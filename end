@@ -1,0 +1,42 @@
+[33mcommit ed6b3abe03566ee2b3789ddf6c23d9b042caf1c1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aline Anjos <lianjos@hotmail.com.br>
+Date:   Wed May 14 12:16:29 2025 -0300
+
+    Alterando limite para 50
+
+[33mcommit fb4f0b8ca9ff9248e181aef6a69914a4e2423ca6[m
+Author: Aline Anjos <lianjos@hotmail.com.br>
+Date:   Wed May 14 08:23:56 2025 -0300
+
+    Alterando limite para 10
+
+[33mcommit b531f00a005cc1071e0241bc2db1750181ea38da[m
+Author: Aline Anjos <lianjos@hotmail.com.br>
+Date:   Wed May 14 08:09:35 2025 -0300
+
+    Alterando limite para 100
+
+[33mcommit ca5c5819096c4b97d11bbf4bcdb427ab207fc08f[m
+Merge: ac67198 63cf08f
+Author: Aline Anjos <lianjos@hotmail.com.br>
+Date:   Tue May 13 14:34:26 2025 -0300
+
+    Resolvendo conflitos de merge
+
+[33mcommit ac67198ee426d423d251a2952632aaafef92ae6e[m
+Author: Aline Anjos <lianjos@hotmail.com.br>
+Date:   Tue May 13 14:01:12 2025 -0300
+
+    Alterar limite para 10
+
+[33mcommit 63cf08f0ab52151f76c8bf502b934c846bbae65c[m
+Author: Aline Anjos <lianjos@hotmail.com.br>
+Date:   Tue May 13 14:01:12 2025 -0300
+
+    alterar lLimite para 100
+
+[33mcommit 36b1217318ca1d3450f3984e28243759f1b75c0e[m
+Author: Aline <aline.sousa@codevasf.gov.br>
+Date:   Tue May 13 08:26:00 2025 -0300
+
+    projeto inicial
