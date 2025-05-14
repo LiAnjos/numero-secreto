@@ -15,7 +15,7 @@ function verificarChute() {
 //Obs.: No JS é possível inverter a ordem (função criada e função chamada). É possível colocar a função chamada antes da função criada e mesmo assim o JS funciona.
 
 let listaDeNumerosSorteados = [];
-let numeroLimite = 100;
+let numeroLimite = 50;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
